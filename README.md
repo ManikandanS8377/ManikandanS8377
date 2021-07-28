@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ManikandanS8377
-- 👀 I’m interested in AI,Compiler Design and Web Development
+- 👋 Hi, I’m @Manikandan S
+- 👀 I’m interested in Web Development,Programming,Ml 
 - 🌱 I’m currently learning AI
 - 📫 How to reach me manikanmani2000@gmail.com
 
