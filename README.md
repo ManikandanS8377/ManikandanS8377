@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manikandan S
-- 👀 I’m interested in Web Development,Programming,Ml,Research Papers
+- 👀 I’m interested in Full Stack Development,Programming,IoT, AI/Ml, Research Papers
 - 🌱 I’m currently learning AI
 - 📫 How to reach me manikanmani2000@gmail.com
 
